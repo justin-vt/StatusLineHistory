@@ -1,0 +1,8 @@
+
+<div id="status_line_history" data-bind="visible: show_status">
+    <div data-bind="foreach: status_line_history">
+        <div data-bind="style: { opacity: $index() === ($parent.status_line_history().length - 1) ? 1 : ($index() === ($parent.status_line_history().length - 2) ? 0.66 : 0.33) }">
+            <span class="status-timestamp" data-bind="text: $data.timestamp"></span> <span data-bind="text: $data.message"></span>
+        </div>
+    </div>
+</div>
