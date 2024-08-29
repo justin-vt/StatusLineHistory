@@ -1,8 +1,10 @@
-# StatusLine
+# StatusLineHistory
 
-Simple plugin which prints the controller status line (actually the M117 Display Message command) on the SideBar
+This is a simple fork of https://github.com/AmedeeBulle/StatusLine that increases the number of status line messages to three and adds a timestamp.
 
-![StatusLine](status_line.png?raw=true) 
+![StatusLineHistory](status_line_history.png?raw=true)
+
+Original readme continues below:
 
 ## Setup
 
