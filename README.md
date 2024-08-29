@@ -4,14 +4,11 @@ This is a simple fork of https://github.com/AmedeeBulle/StatusLine that increase
 
 ![StatusLineHistory](status_line_history.png?raw=true)
 
-Original readme continues below:
-
 ## Setup
 
-Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
-or manually using this URL:
+Install manually using this URL:
 
-    https://github.com/AmedeeBulle/StatusLine/archive/master.zip
+    https://github.com/justin-vt/StatusLineHistory/archive/master.zip
 
 ## Configuration
 
@@ -22,5 +19,5 @@ appearance:
   components:
     order:
       sidebar:
-        - plugin_status_line
+        - plugin_status_line_history
 ```
