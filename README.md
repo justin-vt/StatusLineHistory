@@ -12,7 +12,7 @@ Install manually using this URL:
 
 ## Configuration
 
-If you want to move the plugin to appear at the top of the sidebar, modify the config.yaml file as follows:
+If you want to move the plugin to appear at the top of the sidebar, modify the config.yaml file as follows (or use the excellent [UI Customizer](https://github.com/LazeMSS/OctoPrint-UICustomizer)):
 
 ```yaml
 appearance:
